@@ -71,4 +71,4 @@ Tja, hier gibts noch nichts zu sehen. Das kommt wohl erst später ;)
 
 ---
 
-Tja, hier gibts auch noch nichts zu sehen. Das kommt letzte Rätsel ist in einem kommenden Türchen versteckt. :p
+Tja, hier gibts auch noch nichts zu sehen. Das letzte Rätsel ist in einem kommenden Türchen versteckt. :p
