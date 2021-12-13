@@ -16,6 +16,7 @@ Das Rätsel erstreckt sich über mehrere Aufgaben und lässt sich nicht an der S
 -   Du wirst zum lösen dein Handy brauchen.
 -   Du kannst diese Webseite auch an deinem PC aufrufen falls du dir mal was zum notieren oder so ausdrucken willst oder .zip Dateien dort besser öffnen kannst.
 -   Zip-Dateien lassen sich (zumindest bei meinem Handy) auch im Dateimanager öffnen wenn du sie runtergeladen hast
+-   Funktechnologie wird durch Metall abgeschirmt. 
 
 ## Hintergrund
 
