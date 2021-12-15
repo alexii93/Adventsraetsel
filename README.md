@@ -8,7 +8,7 @@ Das Rätsel erstreckt sich über mehrere Aufgaben und lässt sich nicht an der S
     -   [Technische hinweise](#technische-hinweise)
     -   [Hintergrund](#hintergrund)
     -   [Türchen Nummer 10](#türchen-nummer-10)
-    -   [Türchen Nummer X](#türchen-nummer-x)
+    -   [Türchen Nummer 16](#türchen-nummer-16)
     -   [Türchen Nummer Y](#türchen-nummer-y)
 
 ## Technische hinweise
