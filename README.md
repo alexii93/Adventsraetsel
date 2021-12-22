@@ -82,8 +82,13 @@ Um welchen Ort handelt es sich? Die Adressen /// zu den drei Orten sind überall
 \
 &nbsp;
 
-## Türchen Nummer Y
+## Türchen Nummer 22
 
 ---
 
-Tja, hier gibts auch noch nichts zu sehen. Das letzte Rätsel ist in einem kommenden Türchen versteckt. :p
+Heute gibt es zu Beginn ein Labyrinth Rätsel. Hier sind 3!!! Wörter wichtig. Ich weiß, du hast es schon gelöst, aber ich betone es hier nochmal :D
+
+Wenn du hier gelandet bist weißt du vielleicht auch schon was für Puzzelteile du suchst ;)
+Auf den Puzzelteilen findest du jeweils ein Passwort für die Hinweise in der Reihenfolge in der du die Teile findest. Also das erste Puzzelteil trägt das Passwort für den Hinweis22_1.
+Lediglich das letzte läuft aus der Reihe.
+Viel Spaß bei deinem letzten Rätsel <3
